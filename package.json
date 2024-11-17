@@ -1,7 +1,7 @@
 {
-  "name": "kp11ty",
+  "name": "cms11ty",
   "version": "1.0.0",
-  "description": "A starter blog .",
+  "description": "A starter blog.",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
