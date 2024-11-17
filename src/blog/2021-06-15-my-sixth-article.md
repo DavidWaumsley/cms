@@ -1,11 +1,13 @@
 ---
 title: Markdown cheat sheet
+description: This is David's post. Quite cool isn't it?
 author: David Waumsley
-date: Last Modified
-tags: ["post", "featured"]
+date: 2024-11-17T22:33:00.000Z
+tags:
+  - post
+  - featured
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
-description: This is David's post. Quite cool isn't it?
 ---
 
 # This is a markdown header one (#)
