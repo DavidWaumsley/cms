@@ -13,10 +13,11 @@
   --fw-700: 700;
   --fw-900: 900;
 
-  --clr-primary-200: #efdffa;
+  --clr-primary-400: #efc4c8;
+  --clr-primary-200: #f3e9ea;
   --clr-primary-300: #8440b5;
-  --clr-primary-400: #591d83;
-  --clr-primary-500: #430f68;
+  --clr-primary-400: #ed505d;
+  --clr-primary-500: #202027;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -231,6 +232,7 @@ section,
   text-align: center;
 }
 
+.logo
 /* //////////////////////
   Homepage
   /////////////////////// */

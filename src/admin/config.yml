@@ -4,7 +4,7 @@ backend:
 
 media_folder: "_site/assets/blog"
 public_folder: "/assets/blog"
-logo_url: https://yt3.googleusercontent.com/j5jg32U1rtvIDhXDT_L271-ifGCIr0N3qrWzcDrmFT0XPdv0OQPtnHOiEcSOTWfeypFB8GSTCA=s160-c-k-c0x00ffffff-no-rj
+logo_url: https://cms11ty.netlify.app/assets/logo.svg
 collections:
   - name: "blog"
     label: "Blog"
