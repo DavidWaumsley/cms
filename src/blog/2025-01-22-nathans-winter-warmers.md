@@ -12,24 +12,22 @@ imageAlt: food
 
 **Lorem** markdownum cui, sunt axes vocisque duce gurgite et poterat veste summum,
 *crabronum* vidit. Quid ituros delicta de ventre, dissaepserat precor male piscis,
-factis Herculis non palmae si aut me Atlantiades!
+factis Herculis non palmae si aut me Atlantiades! Testing
 
 Oves deficiunt suae: Livor cogis insuperabile potae fama clarus! Tisiphone
 aestuat, huic et dimovit umbra Bisaltida ratus illa fecisse fatali, pectore at
 vota. Quae abire scitanti multum pectus, facit et erant infelix flagrans.
 Tritonidos rector conviciaque sunt conatur, omnes longo canistris [Markdown Cheat Sheet](https://www.geeksforgeeks.org/markdown-cheat-sheet/).
 
-
 ## Potuit utrimque
 
 Inquam illa atque, nulla. Esse nec, has mihi, *generosaque* posset regia pari
 facis deserit licet teque poscenti igitur.
 
-- Hunc mollia lacrimis et fluctus subit
-- Abdita Bubastis superi
-- Sequentes illic stridit et fixa loricaeque nymphae
-- Iste optima removerat dominae
-
+* Hunc mollia lacrimis et fluctus subit
+* Abdita Bubastis superi
+* Sequentes illic stridit et fixa loricaeque nymphae
+* Iste optima removerat dominae
 
 ![Alt Text](https://images.unsplash.com/photo-1717179741557-15067f04d90d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
